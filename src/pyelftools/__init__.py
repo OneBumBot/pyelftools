@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from pyelftools!")
+from .elf_data import elf_header, elf_identity
